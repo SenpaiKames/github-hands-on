@@ -1,0 +1,1 @@
+I learned how to install Python, Jupyter, and refreshed my knowledge on using Git
