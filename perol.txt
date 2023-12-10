@@ -1,0 +1,4 @@
+what i learned today:
+- i learned what git is and some commonly used commands
+- i learned how to get started using github
+- i learned about pushing, pulling and forking in github
