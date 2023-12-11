@@ -1,0 +1,1 @@
+I learned to fork a repo and use upstream and how to push to the original branch.
