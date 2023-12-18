@@ -1,0 +1,1 @@
+I learned the fundamentals of GitHub, such as forking, committing changes, and creating pull requests
